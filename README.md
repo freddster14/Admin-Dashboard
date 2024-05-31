@@ -1,5 +1,5 @@
 # Admin-Dashboard
- Live Preview: [Click Here](https://zeronicc.github.io/Admin-Dashboard/)
+ Live Preview: [Click Here](https://freddster14.github.io/Admin-Dashboard/)
  
  ## Technology Used
   * CSS3
